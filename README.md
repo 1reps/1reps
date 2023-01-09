@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&text=Dongmin)
 
 <div align="center">
   <h3>🐾Tech Stack🐾</h3>
@@ -6,6 +6,7 @@
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
   <br/>
   <a href="#"><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=Postgresql&logoColor=white"/></a>
