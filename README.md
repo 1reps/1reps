@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+
 <div align="center">
   <h3>🐾Tech Stack🐾</h3>
   <a href="#"><img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D"/></a>
@@ -9,6 +11,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=Postgresql&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/></a>
 </div>
+
+
 
 <div align="center">
   <h3>🔨Tools🔨</h3>
@@ -31,7 +35,7 @@
 <div align="center">
   <h3>📖BookStack📖</h3>
   <img src="./img/1.jpg" width="100" height="150" />
-  <img src="./img/2.jpg" width="100" height="150" />
+<!--   <img src="./img/2.jpg" width="100" height="150" /> -->
   <img src="./img/3.jpg" width="100" height="150" />
   <img src="./img/4.jpg" width="100" height="150" />
   <img src="./img/5.jpg" width="100" height="150" />
@@ -40,6 +44,6 @@
 <br/><br/>
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicStrength&layout=compact"><br><br> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicStrength&theme=react&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=DominicStrength&theme=react&show_icons=true">
 </div>
