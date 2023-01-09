@@ -13,7 +13,7 @@
   <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/></a>
 </div>
 
-
+<hr/>
 <!-- <div align="center">
 <br/>
 ⚪<br/><br/>
@@ -32,6 +32,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
 </div>
 
+<hr/>
 <!-- <div align="center">
 <br/>
 ⚪<br/><br/>
@@ -42,6 +43,7 @@
   <a href="https://www.instagram.com/_dongmin.kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </div>
 
+<hr/>
 <!-- <div align="center">
 <br/>
 ⚪<br/><br/>
@@ -56,7 +58,7 @@
   <img src="./img/5.jpg" width="100" height="150" />
 </div>
 
-<br/><br/>
+<hr/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicStrength&theme=react&layout=compact">
