@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&text=Welcome&nbsp;Dongmin&nbsp;Github)
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&text=Welcome&nbsp;Dongmin&nbsp;Github) -->
 
 <div align="center">
   <h3>🐾Tech Stack🐾</h3>
@@ -14,10 +14,10 @@
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
 <br/>
 ⚪<br/><br/>
-</div>
+</div> -->
 
 <div align="center">
   <h3>🔨Tools🔨</h3>
@@ -32,20 +32,20 @@
   <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <br/>
 ⚪<br/><br/>
-</div>
+</div> -->
 
 <div align="center">
   <h3>📷SNS📷</h3>
   <a href="https://www.instagram.com/_dongmin.kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <br/>
 ⚪<br/><br/>
-</div>
+</div> -->
 
 <div align="center">
   <h3>📖BookStack📖</h3>
