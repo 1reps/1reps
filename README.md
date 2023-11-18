@@ -36,8 +36,6 @@
   <img src="./img/5.jpg" width="100" height="150" />
 </div>
 -->
-***
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicStrength&theme=react&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=DominicStrength&theme=react&show_icons=true">
