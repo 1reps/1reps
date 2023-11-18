@@ -13,7 +13,6 @@
 </div>
 
 <div align="center">
-  <h3>🔨Project Management Tool && Team Collaboration Tool🔨</h3>
   <a href="#"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-61DAFB?style=flat&logo=Github&logoColor=black&color=inactive"/></a>
