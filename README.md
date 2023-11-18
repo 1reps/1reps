@@ -1,7 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&text=Welcome&nbsp;Dongmin&nbsp;Github) -->
 
 <div align="center">
-  <h3>🐾Tech Stack🐾</h3>
   <a href="#"><img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
@@ -27,19 +26,17 @@
 </div>
 
 <div align="center">
-  <h3>📷SNS📷</h3>
   <a href="https://www.instagram.com/_dongmin.kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </div>
-
+<!--
 <div align="center">
-  <h3>📖BookStack📖</h3>
   <img src="./img/1.jpg" width="100" height="150" />
   <img src="./img/2.jpg" width="100" height="150" />
   <img src="./img/3.jpg" width="100" height="150" />
   <img src="./img/4.jpg" width="100" height="150" />
   <img src="./img/5.jpg" width="100" height="150" />
 </div>
-
+-->
 ***
 
 <div align="center">
