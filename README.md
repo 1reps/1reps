@@ -28,9 +28,11 @@
   <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
 </div>
 
+<!--
 <div align="center">
   <a href="https://www.instagram.com/_dongmin.kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </div>
+-->
 <!--
 <div align="center">
   <img src="./img/1.jpg" width="100" height="150" />
