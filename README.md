@@ -44,5 +44,6 @@
 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicStrength&theme=react&layout=compact">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=DominicStrength&theme=react&show_icons=true">
 </div>
