@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&text=Welcome&nbsp;Dongmin&nbsp;Github) -->
-
+<!--
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
@@ -27,7 +27,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
 </div>
-
+-->
 <!--
 <div align="center">
   <a href="https://www.instagram.com/_dongmin.kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
