@@ -49,3 +49,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DominicStrength&theme=react&show_icons=true">
 </div>
 -->
+```mysql
+SELECT money
+     , love
+     , joy
+     , wisdom
+     , laughter
+     , health
+     , strength
+     , vitality
+     , food
+     , good_friends
+     , etc
+FROM years
+WHERE dates >= '2025-01-01'
+  AND dates < '2026-01-01';
+```
